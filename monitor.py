@@ -7,7 +7,6 @@ PRODUCT_BASE_URL = "https://lovelive.fannect.jp/collections/ll-48-03/products/"
 
 TARGET_KEYWORDS = [
     "蓮ノ空女学院校章ボタン風ピンズ",
-    "メモリアルピンズ",
 ]
 
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
